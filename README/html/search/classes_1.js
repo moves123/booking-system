@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['checkemailformat',['CheckEmailFormat',['../class_business_logic_1_1_check_email_format.html',1,'BusinessLogic']]],
+  ['checkforspecialcharacters',['CheckForSpecialCharacters',['../class_business_logic_1_1_check_for_special_characters.html',1,'BusinessLogic']]],
+  ['checkisalldigits',['CheckIsAllDigits',['../class_business_logic_1_1_check_is_all_digits.html',1,'BusinessLogic']]],
+  ['checkisallletters',['CheckIsAllLetters',['../class_business_logic_1_1_check_is_all_letters.html',1,'BusinessLogic']]],
+  ['checkisnotnull',['CheckIsNotNull',['../class_business_logic_1_1_check_is_not_null.html',1,'BusinessLogic']]],
+  ['checkisnotwhitespace',['CheckIsNotWhiteSpace',['../class_business_logic_1_1_check_is_not_white_space.html',1,'BusinessLogic']]],
+  ['checknumberofcharacters',['CheckNumberOfCharacters',['../class_business_logic_1_1_check_number_of_characters.html',1,'BusinessLogic']]],
+  ['clubsandsocieties',['ClubsAndSocieties',['../class_user_classes_1_1_clubs_and_societies.html',1,'UserClasses']]],
+  ['createappointment',['CreateAppointment',['../class_business_logic_1_1_create_appointment.html',1,'BusinessLogic']]],
+  ['createstaff',['CreateStaff',['../class_software_1_1_create_staff.html',1,'Software']]],
+  ['createuser',['CreateUser',['../class_software_1_1_create_user.html',1,'Software']]],
+  ['customer',['Customer',['../class_user_classes_1_1_customer.html',1,'UserClasses']]],
+  ['customerbookingdetails',['CustomerBookingDetails',['../class_software_1_1_customer_booking_details.html',1,'Software']]],
+  ['customerbookingpage',['CustomerBookingPage',['../class_software_1_1_customer_booking_page.html',1,'Software']]],
+  ['customerdashboard',['CustomerDashboard',['../class_software_1_1_customer_dashboard.html',1,'Software']]],
+  ['customereditdetails',['CustomerEditDetails',['../class_software_1_1_customer_edit_details.html',1,'Software']]],
+  ['customerlogin',['CustomerLogin',['../class_software_1_1_customer_login.html',1,'Software']]]
+];

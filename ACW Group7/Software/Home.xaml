@@ -1,0 +1,17 @@
+﻿<Window x:Class="Software.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Software"
+        mc:Ignorable="d"
+        Title="Home" Height="550" Width="800" WindowStartupLocation="CenterScreen" WindowState="Normal">
+    <Grid Background="#FFFFFF">
+        <Button x:Name="BtnEmployee" FontSize="32" Foreground="#FFFFFF" Background="#3B3B3B" Content="EMPLOYEE" HorizontalAlignment="Left" Margin="404,344,-0.4,-0.2" VerticalAlignment="Top" Width="390" Height="177" Click="BtnEmployee_Click"/>
+        <Button x:Name="BtnCustomer" FontSize="32" Foreground="#FFFFFF" Background="#85953C" Content="CUSTOMER" HorizontalAlignment="Left" Margin="0,344,0,-0.2" VerticalAlignment="Top" Width="390" Height="177" Click="BtnCustomer_Click"/>
+        <Image Source="./Images/HullUniLogo.png" Stretch="Fill" HorizontalAlignment="Left" Height="273" Margin="102,38,0,0" VerticalAlignment="Top" Width="591"/>
+
+
+
+    </Grid>
+</Window>

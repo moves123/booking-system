@@ -1,0 +1,34 @@
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\Software\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\__Uni Work\systems\acw\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\__Uni Work\systems\acw\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\__Uni Work\systems\acw\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\__Uni Work\systems\acw\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\__Uni Work\systems\acw\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.pdb
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\bin\Debug\BusinessLogic.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\bin\Debug\BusinessLogic.pdb
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\obj\Debug\BusinessLogic.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache

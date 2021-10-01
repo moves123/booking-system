@@ -1,0 +1,32 @@
+﻿<Window x:Class="Software.CustomerBookingDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Software"
+        mc:Ignorable="d"
+        Title="CustomerBookingDetails" Height="450" Width="800.078" WindowStartupLocation="CenterScreen" WindowState="Normal">
+    <Grid Background="#85953C">
+        <Label x:Name="Header" FontSize="25" Content="Booked Sessions" Foreground="#FFFFFF" HorizontalAlignment="Left" Margin="17,129,0,0" VerticalAlignment="Top" Width="335"/>
+        <Button x:Name="BtnBack" Background="#FFFFFF" Content="Back" HorizontalAlignment="Left" Height="46" Margin="681,364,0,0" VerticalAlignment="Top" Width="103" Click="BtnBack_Click"/>
+        <Button Background="#3B3B3B" Foreground="#FFFFFF" FontSize="16" Name="CancelSessionButton" Content="Cancel Session" Margin="654,226,9.6,135" Click="CancelSessionButton_Click"/>
+        <Button Foreground="#3B3B3B" FontSize="16" Background="#FFFFFF" Content="View Details" Margin="654,290,9.6,71"/>
+        <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" Name="BookedSessionsDataGrid" HorizontalAlignment="Left" Height="123" VerticalAlignment="Top" Width="632" Margin="17,226,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Appointment ID" Binding="{Binding AppointmentID}" Width="*" />
+                <DataGridTextColumn Header="StaffID" Binding="{Binding StaffID}" Width="*"/>
+                <DataGridTextColumn Header="Paid" Binding="{Binding Paid}" Width="*"/>
+                <DataGridTextColumn Header="Time Start" Binding="{Binding TimeStart}" Width="*"/>
+                <DataGridTextColumn Header="Time End" Binding="{Binding TimeEnd}" Width="*"/>
+                <DataGridTextColumn Header="Notes for PT" Binding="{Binding Notes}" Width="2*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Image Source="Images/HullUniLogoWhite.png" HorizontalAlignment="Left" Height="100" Margin="17,29,0,0" VerticalAlignment="Top" Width="187"/>
+        <Image Source="Images/WhiteLine.png" HorizontalAlignment="Left" Height="100" Margin="10,129,0,0" VerticalAlignment="Top" Width="354"/>
+        <Image Source="Images/WhiteLine.png" HorizontalAlignment="Left" Height="100" Margin="300,129,0,0" VerticalAlignment="Top" Width="354"/>
+        <Image Source="Images/SearchButtonWhite.png" HorizontalAlignment="Left" Height="58" Margin="581,142,0,0" VerticalAlignment="Top" Width="114"/>
+        <Image Source="Images/MinusWhite.png" HorizontalAlignment="Left" Height="23" Margin="741,226,0,0" VerticalAlignment="Top" Width="43"/>
+        <Image Source="Images/SearchGrey.png" HorizontalAlignment="Left" Height="24" Margin="741,290,-13.4,0" VerticalAlignment="Top" Width="66"/>
+
+    </Grid>
+</Window>

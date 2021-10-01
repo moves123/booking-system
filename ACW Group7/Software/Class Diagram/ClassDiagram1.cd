@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Software.SqlInterfacing">
+    <Position X="22.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAQAEAAgAAAABAAUQAAQAAEDgAAAAAYABAAA=</HashCode>
+      <FileName>SqlInterfacing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogic.Appointments">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CreateAppointment">
+    <Position X="20.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.Encryption">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.UserMessage">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.Util">
+    <Position X="17" Y="2" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.Validator">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckIsNotNull">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckIsNotWhiteSpace">
+    <Position X="11.75" Y="2.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckNumberOfCharacters">
+    <Position X="0.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckIsAllDigits">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckForSpecialCharacters">
+    <Position X="9" Y="2.75" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckIsAllLetters">
+    <Position X="14" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BusinessLogic.CheckEmailFormat">
+    <Position X="3" Y="2.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.PersonalTrainer">
+    <Position X="21.25" Y="6.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.Student">
+    <Position X="22.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.User">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.Volunteer">
+    <Position X="16.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.Customer">
+    <Position X="19.75" Y="10.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.ExternalUser">
+    <Position X="18" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UserClasses.FacilitiesManagement">
+    <Position X="24" Y="10.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Software.CustomerLogin">
+    <Position X="2.5" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CustomerLogin.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.921" />
+  </Class>
+  <Class Name="Software.CreateStaff">
+    <Position X="9.25" Y="7.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAACAAAAACAAAAQAAAKAgAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>CreateStaff.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.166" />
+  </Class>
+  <Class Name="Software.CreateUser">
+    <Position X="0.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAACAAAAAAAAAAAAAACAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreateUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.203" />
+  </Class>
+  <Class Name="Software.CustomerBookingDetails">
+    <Position X="0.75" Y="13" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CustomerBookingDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.75" />
+  </Class>
+  <Class Name="Software.CustomerBookingPage">
+    <Position X="3" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAIAAYAAAAAAAAgAAAAAEAAAAAIAAAAA=</HashCode>
+      <FileName>CustomerBookingPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Software.CustomerDashboard">
+    <Position X="2.5" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIBAAAAAAQAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CustomerDashboard.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Software.CustomerEditDetails">
+    <Position X="0.5" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAABAAAAAAAACAAAIAAAAA=</HashCode>
+      <FileName>CustomerEditDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.279" />
+  </Class>
+  <Class Name="Software.Home">
+    <Position X="4.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Home.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.483" />
+  </Class>
+  <Class Name="Software.EmployeeBookingDetails">
+    <Position X="13.25" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>EmployeeBookingDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.294" />
+  </Class>
+  <Class Name="Software.EmployeeBookingPage">
+    <Position X="8.25" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAABAAAAAACCAAAAAAAEAIAAAAA=</HashCode>
+      <FileName>EmployeeBookingPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.181" />
+  </Class>
+  <Class Name="Software.EmployeeDashboard">
+    <Position X="5.75" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAEAAAAAABAQAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>EmployeeDashboard.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Software.EmployeeEditDetails">
+    <Position X="10.5" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAIQAAAA=</HashCode>
+      <FileName>EmployeeEditDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Software.EmployeeLogin">
+    <Position X="5.75" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>EmployeeLogin.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.163" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

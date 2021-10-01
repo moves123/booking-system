@@ -1,0 +1,66 @@
+C:\Users\Root\Desktop\group07\Software\UserClasses\bin\Debug\UserClasses.dll
+C:\Users\Root\Desktop\group07\Software\UserClasses\bin\Debug\UserClasses.pdb
+C:\Users\Root\Desktop\group07\Software\UserClasses\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\Software\UserClasses\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\group07\Software\UserClasses\obj\Debug\UserClasses.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\group07\Software\UserClasses\obj\Debug\UserClasses.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\group07\Software\UserClasses\obj\Debug\UserClasses.csproj.CopyComplete
+C:\Users\Root\Desktop\group07\Software\UserClasses\obj\Debug\UserClasses.dll
+C:\Users\Root\Desktop\group07\Software\UserClasses\obj\Debug\UserClasses.pdb
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\UserClasses.dll
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\UserClasses.pdb
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\BusinessLogic.dll
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\BusinessLogic.pdb
+D:\__Uni Work\systems\acw\UserClasses\obj\Debug\UserClasses.csprojResolveAssemblyReference.cache
+D:\__Uni Work\systems\acw\UserClasses\obj\Debug\UserClasses.dll
+D:\__Uni Work\systems\acw\UserClasses\obj\Debug\UserClasses.pdb
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\System.Data.SQLite.dll
+D:\__Uni Work\systems\acw\UserClasses\bin\Debug\System.Data.SQLite.xml
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\UserClasses.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\UserClasses.pdb
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.xml
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CopyComplete
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.dll
+C:\Users\Root\Desktop\group07\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.pdb
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\UserClasses.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\UserClasses.pdb
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\BusinessLogic.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\BusinessLogic.pdb
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.xml
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CopyComplete
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.dll
+C:\Users\Root\Desktop\acw\trunk\ACW Group7\UserClasses\obj\Debug\UserClasses.pdb
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\UserClasses.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\UserClasses.pdb
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\BusinessLogic.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\System.Data.SQLite.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\BusinessLogic.pdb
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\System.Data.SQLite.xml
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\bin\Debug\System.Data.SQLite.dll.config
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\obj\Debug\UserClasses.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\obj\Debug\UserClasses.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\obj\Debug\UserClasses.csproj.CopyComplete
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\obj\Debug\UserClasses.dll
+\\adir.hull.ac.uk\home\528\528945\_SYSTEMS\acw\UserClasses\obj\Debug\UserClasses.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\UserClasses.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\UserClasses.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\BusinessLogic.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\BusinessLogic.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.xml
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CoreCompileInputs.cache
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\obj\Debug\UserClasses.dll
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\obj\Debug\UserClasses.pdb
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\obj\Debug\UserClasses.csprojAssemblyReference.cache
+C:\Users\mmupa\Downloads\Group07\SourceCode\ACW Group7\UserClasses\obj\Debug\UserClasses.csproj.CopyComplete

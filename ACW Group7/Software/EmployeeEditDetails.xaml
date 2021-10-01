@@ -1,0 +1,22 @@
+﻿<Window x:Class="Software.EmployeeEditDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Software"
+        mc:Ignorable="d"
+        Title="EmployeeEditDetails" Height="450" Width="800">
+    <Grid Background="#3B3B3B">
+        <TextBox x:Name="Name1" HorizontalAlignment="Left" Height="23" Margin="170,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Telephone" HorizontalAlignment="Left" Height="23" Margin="354,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D_O_B" HorizontalAlignment="Left" Height="23" Margin="170,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="23" Margin="354,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Rate" HorizontalAlignment="Left" Height="23" Margin="517,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Select_Speciality" HorizontalAlignment="Left" Margin="517,142,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnSaveChanges" Foreground="#FFFFFF" Background="#85953C" Content="Save Changes" HorizontalAlignment="Left" Margin="421,264,0,0" VerticalAlignment="Top" Width="120" Height="48" Click="BtnSaveChanges_Click"/>
+        <ComboBox x:Name="Set_Availability" HorizontalAlignment="Left" Margin="183,279,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Header" Foreground="#FFFFFF" FontSize="25" Content="Edit Account Details" HorizontalAlignment="Left" Margin="171,78,0,0" VerticalAlignment="Top" Width="466"/>
+        <Button x:Name="BtnBack" Background="#FFFFFF" Content="Back" HorizontalAlignment="Left" Height="34" Margin="572,312,0,0" VerticalAlignment="Top" Width="79" Click="BtnBack_Click"/>
+
+    </Grid>
+</Window>
